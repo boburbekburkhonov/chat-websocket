@@ -815,6 +815,10 @@ button:focus {
     font-size: 25px;
   }
 
+  .chatlist {
+    display: none !important;
+  }
+
 }
 
 @media only screen and (max-width: 570px) {
