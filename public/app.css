@@ -808,3 +808,27 @@ button:focus {
   color: #ffffff;
   border-radius: 10px;
 }
+
+@media only screen and (max-width: 770px) {
+
+  .modal-heading {
+    font-size: 25px;
+  }
+
+}
+
+@media only screen and (max-width: 570px) {
+
+  .modal-heading {
+    font-size: 22px;
+  }
+
+}
+
+@media only screen and (max-width: 500px) {
+
+  .modal-heading {
+    font-size: 17px;
+  }
+
+}
